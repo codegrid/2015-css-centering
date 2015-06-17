@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.lv1 {
+  color: #fff;
+  background: #46564b;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+}

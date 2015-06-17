@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.lv1 {
+  padding: 10px;
+  margin: 10px;
+  background: #46564b;
+  color: #fff;
+}
+.lv2 {
+  width: 200px;
+  margin: 0 auto;
+  background: #a69544;
+  padding: 10px;
+}

@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.lv1 {
+  padding: 10px;
+  text-align: center;
+  margin: 10px;
+  background: #46564b;
+  color: #fff;
+}
+.lv2 {
+  display: inline-block;
+  text-align: left;
+  background: #a69544;
+  padding: 10px;
+}

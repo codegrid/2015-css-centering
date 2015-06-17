@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  padding: 10px;
+}
+.outer {
+  display: table;
+  border: 3px solid #000;
+  width: 100%;
+  margin: 10px 0 10px;
+}
+.inner {
+  display: table-cell;
+  vertical-align: middle;
+  padding: 10px;
+  min-height: 100px;
+}
+.item {
+  background: pink;
+  margin: 5px;
+}

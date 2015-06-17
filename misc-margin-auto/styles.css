@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+h2 {
+  padding: 20px 10px 5px;
+  font-size: 0.9em;
+}
+h2:first-child {
+  padding-top: 10px;
+}
+.lv1 {
+  padding: 10px;
+  margin: 10px;
+  background: #46564b;
+  color: #fff;
+}
+.lv2 {
+  width: 200px;
+  background: #a69544;
+  padding: 10px;
+}

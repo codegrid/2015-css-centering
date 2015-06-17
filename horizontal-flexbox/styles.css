@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.lv1 {
+  background: #46564b;
+  color: #fff;
+  padding: 10px 5px;
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+.lv2 {
+  background: #a69544;
+  margin: 0 5px;
+  padding: 10px;
+}

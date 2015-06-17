@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.outer {
+  border: 3px solid #000;
+  margin: 10px;
+  height: 200px;
+  position: relative;
+}
+.inner {
+  position: absolute;
+  top: 50%;
+  background: pink;
+  width: 100%;
+  height: 100px;
+  transform: translateY(-50%);
+  
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  
+}
