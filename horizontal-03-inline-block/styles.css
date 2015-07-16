@@ -2,6 +2,13 @@
   margin: 0;
   padding: 0;
 }
+h2 {
+  padding: 10px 10px 5px;
+  font-size: 0.9em;
+}
+h2:first-child {
+  padding-top: 10px;
+}
 .lv1 {
   padding: 10px;
   text-align: center;
