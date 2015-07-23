@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+h2 {
+  padding: 20px 10px 5px;
+  font-size: 0.9em;
+}
+h2:first-child {
+  padding-top: 10px;
+}
+.lv1 {
+  border: 3px solid #000;
+  margin: 10px;
+  height: 300px;
+  position: relative;
+}
+.lv2 {
+  position: absolute;
+  background: pink;
+}
