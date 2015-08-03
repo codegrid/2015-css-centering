@@ -5,19 +5,19 @@
 body {
   padding: 10px;
 }
-.outer {
+.lv1 {
   display: table;
-  border: 3px solid #000;
   width: 100%;
-  margin: 10px 0 10px;
+  margin: 0 0 10px;
+  height: 120px;
 }
-.inner {
+.lv2 {
   display: table-cell;
   vertical-align: middle;
+  border: 3px solid #000;
   padding: 10px;
-  min-height: 100px;
 }
 .item {
   background: pink;
-  margin: 5px;
+  margin: 5px 0;
 }
