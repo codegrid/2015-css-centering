@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
 }
-.outer {
+.lv1 {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -11,7 +11,7 @@
   margin: 10px;
   height: 100px;
 }
-.inner {
+.lv2 {
   background: pink;
   margin: 5px;
 }

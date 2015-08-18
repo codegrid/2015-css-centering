@@ -5,13 +5,13 @@
 body {
   padding: 10px;
 }
-.outer {
+.lv1 {
   display: table;
   border: 3px solid #000;
   width: 100%;
   margin: 10px 0 10px;
 }
-.inner {
+.lv2 {
   display: table-cell;
   vertical-align: middle;
   padding: 10px;
